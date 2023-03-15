@@ -1,0 +1,107 @@
+@media (max-width: 73em) {
+  h2 {
+    font-size: 4.8rem;
+    line-height: 6.4rem;
+  }
+  .text {
+    padding-right: 5.6rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 8rem;
+  }
+}
+@media (max-width: 66em) {
+  h2 {
+    font-size: 4.4rem;
+    line-height: 6.4rem;
+  }
+  .text {
+    padding-right: 5.6rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 7rem;
+  }
+}
+@media (max-width: 62em) {
+  h2 {
+    font-size: 3.8rem;
+    line-height: 5.4rem;
+  }
+  .text {
+    padding-right: 5.6rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 6rem;
+  }
+}
+@media (max-width: 56em) {
+  h2 {
+    font-size: 3.4rem;
+    line-height: 5rem;
+  }
+  .text {
+    padding-right: 5.6rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 5rem;
+  }
+}
+@media (max-width: 48em) {
+  h2 {
+    font-size: 2.8rem;
+    line-height: 4.4rem;
+  }
+  .text {
+    padding-right: 4rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 4rem;
+  }
+}
+@media (max-width: 27em) {
+  .all {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 9.6rem;
+    align-items: center;
+  }
+  .header {
+    padding: 2rem 5.6rem 0rem 3rem;
+  }
+  .text {
+    padding: 4rem 2rem 4rem 4rem;
+  }
+  h2 {
+    font-size: 3rem;
+    line-height: 4rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 4rem;
+  }
+}
+@media (max-width: 20em) {
+  h2 {
+    font-size: 2.4rem;
+    line-height: 4rem;
+  }
+  p {
+    font-size: 1.6rem;
+  }
+  .all {
+    display: grid;
+
+    gap: 2rem;
+  }
+}
